@@ -1,0 +1,12 @@
+/out/
+
+.DS_Store
+
+# Compiled source #
+###################
+*.class
+
+# intelliJ File #
+#####################
+**.idea
+**.iml
